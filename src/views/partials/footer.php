@@ -10,7 +10,6 @@
     <script src="<?= $base; ?>/src/js/buttons.html5.min.js" type="text/javascript"></script>
     <script src="<?= $base; ?>/src/js/buttons.print.min.js" type="text/javascript"></script>
     <script src="<?= $base; ?>/src/js/buttons.colVis.min.js" type="text/javascript"></script>
-    <script src="<?= $base; ?>/src/js/buttons.colVis.min.js" type="text/javascript"></script>
     <script src="<?= $base; ?>/src/js/bootstrap.bundle.min.js" type="text/javascript"></script>
     </body>
 
